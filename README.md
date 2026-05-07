@@ -16,6 +16,7 @@
   <a href="#zh-cn"><img alt="中文" src="https://img.shields.io/badge/中文-阅读-black?style=flat-square" /></a>
   <a href="#en"><img alt="English" src="https://img.shields.io/badge/English-Read-black?style=flat-square" /></a>
   <a href="https://discord.gg/aD7mWSu5RP"><img alt="Discord" src="https://img.shields.io/badge/discord-join-5865F2?style=flat-square&logo=discord&logoColor=white" /></a>
+  <a href="https://x.com/kokisanai"><img alt="X" src="https://img.shields.io/badge/X-@kokisanai-000000?style=flat-square&logo=x&logoColor=white" /></a>
 </p>
 
 ---

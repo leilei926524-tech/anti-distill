@@ -124,13 +124,9 @@ anti-distill/
 
 ### 在线体验
 
-如果你只是想先试一下效果，不想安装 Claude Code 或配置环境，可以直接打开这个在线体验链接：
+如果你只是想先试一下效果，不想安装 Claude Code 或配置环境，可以直接打开[这个在线体验链接](https://socialistic.ai/zh/skill/anti-distill-11e494/?utm_source=github&utm_medium=readme&utm_content=hyperlink&utm_campaign=xhs_github_skill_creator)。从小红书或其他社交平台点进来的读者，可以直接在浏览器里体验，少走一段安装和配置流程。
 
-> [点这里直接体验 anti-distill](https://socialistic.ai/en/skill/anti-distill-11e494/?utm_source=github&utm_medium=issue&utm_campaign=xhs_github_skill_creator&utm_content=hyperlink)
-
-从小红书或其他社交平台点进来的读者，可以直接在浏览器里体验，少走一段安装和配置流程。
-
-<img src="https://raw.githubusercontent.com/shesl-tinkerland/socialistic-cards/main/anti-distill-11e494.png" width="30%" />
+[![在 Socialistic 上试用 anti-distill](https://socialistic.ai/api/embed/anti-distill-11e494?lang=zh)](https://socialistic.ai/zh/skill/anti-distill-11e494/?utm_source=github&utm_medium=readme&utm_content=badge&utm_campaign=xhs_github_skill_creator)
 
 ---
 
@@ -241,13 +237,9 @@ anti-distill/
 
 ### Try Online
 
-If you want to test it quickly without installing Claude Code or setting up an environment, use this online demo link:
+If you just want to try it out without installing Claude Code or setting up an environment, open [this online demo link](https://socialistic.ai/en/skill/anti-distill-11e494/?utm_source=github&utm_medium=readme&utm_content=hyperlink&utm_campaign=xhs_github_skill_creator). Readers coming from Xiaohongshu or other social platforms can try it directly in the browser — no setup required.
 
-> [Try anti-distill online](https://socialistic.ai/en/skill/anti-distill-11e494/?utm_source=github&utm_medium=issue&utm_campaign=xhs_github_skill_creator&utm_content=hyperlink)
-
-This is especially useful for readers coming from Xiaohongshu or other social platforms, since they can try it directly in the browser.
-
-<img src="https://raw.githubusercontent.com/shesl-tinkerland/socialistic-cards/main/anti-distill-11e494.png" width="30%" />
+[![Try anti-distill on Socialistic](https://socialistic.ai/api/embed/anti-distill-11e494?lang=en)](https://socialistic.ai/en/skill/anti-distill-11e494/?utm_source=github&utm_medium=readme&utm_content=badge&utm_campaign=xhs_github_skill_creator)
 
 ---
 

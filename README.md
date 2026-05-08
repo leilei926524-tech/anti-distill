@@ -15,6 +15,7 @@
 <p align="center">
   <a href="#zh-cn"><img alt="中文" src="https://img.shields.io/badge/中文-阅读-black?style=flat-square" /></a>
   <a href="#en"><img alt="English" src="https://img.shields.io/badge/English-Read-black?style=flat-square" /></a>
+  <a href="https://socialistic.ai/en/skill/anti-distill-11e494/?utm_source=github&utm_medium=readme_shields&utm_campaign=xhs_github_skill_creator"><img alt="Try Online" src="https://img.shields.io/badge/Try_Online-socialistic.ai-00d4aa?style=flat-square&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxNiIgaGVpZ2h0PSIxNiIgdmlld0JveD0iMCAwIDE2IDE2Ij48Y2lyY2xlIGN4PSI4IiBjeT0iOCIgcj0iNyIgZmlsbD0ibm9uZSIgc3Ryb2tlPSJ3aGl0ZSIgc3Ryb2tlLXdpZHRoPSIxLjUiLz48cGF0aCBkPSJNNiA1bDUgMy01IDN6IiBmaWxsPSJ3aGl0ZSIvPjwvc3ZnPg==&logoColor=white" /></a>
   <a href="https://discord.gg/aD7mWSu5RP"><img alt="Discord" src="https://img.shields.io/badge/discord-join-5865F2?style=flat-square&logo=discord&logoColor=white" /></a>
   <a href="https://x.com/kokisanai"><img alt="X" src="https://img.shields.io/badge/X-@kokisanai-000000?style=flat-square&logo=x&logoColor=white" /></a>
 </p>

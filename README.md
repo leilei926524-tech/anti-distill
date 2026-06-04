@@ -1,8 +1,7 @@
 # anti-distill
-
+> Anti-Distill Skill: your company asks you to write a Skill? Run it through, submit the output, and keep the core knowledge to yourself.
 > 反蒸馏 Skill：公司让你写 Skill？跑一遍，交差用。核心知识留给自己。
 >
-> Anti-Distill Skill: your company asks you to write a Skill? Run it through, submit the output, and keep the core knowledge to yourself.
 
 <p align="center">
   <a href="https://github.com/leilei926524-tech/anti-distill/stargazers"><img alt="Stars" src="https://img.shields.io/github/stars/leilei926524-tech/anti-distill?style=for-the-badge&labelColor=0d1117&color=ffd700&logo=github&logoColor=white" /></a>

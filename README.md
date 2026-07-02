@@ -1,4 +1,4 @@
-# anti-distill
+# anti-distill skill 反蒸馏skill
 > Anti-Distill Skill: your company asks you to write a Skill? Run it through, submit the output, and keep the core knowledge to yourself.
 > 反蒸馏 Skill：公司让你写 Skill？跑一遍，交差用。核心知识留给自己。
 >
